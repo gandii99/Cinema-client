@@ -458,6 +458,11 @@ ul{
         cursor: pointer;
     }
 
+    .headerMenu, .header, .categories{
+        margin-left: 0;
+        width: 100%;
+    }
+
 }
 
 /*media query for less than 600 screen size*/
